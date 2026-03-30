@@ -3,7 +3,7 @@
 A cart-double-pendulum swing-up and balance environment with 3D OpenGL rendering, built on [Gymnasium](https://gymnasium.farama.org/). Train an RL agent to swing two hinged rods upright and keep them balanced using only horizontal cart forces.
 
 <p align="center">
-  <img src="docs/screenshot.png" width="720" alt="3D rendering of the dual pendulum environment">
+  <img src="docs/demo.gif" width="720" alt="Trained agent balancing the dual pendulum">
 </p>
 
 ## The Problem
