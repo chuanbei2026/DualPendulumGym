@@ -1,0 +1,1 @@
+from dual_pendulum_gym.envs.dual_pendulum import DualPendulumEnv
