@@ -1,4 +1,4 @@
-[中文版](README_zh.md)
+In English | [中文版](README_zh.md)
 
 # DualPendulumGym
 
