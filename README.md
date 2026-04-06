@@ -1,3 +1,5 @@
+[中文版](README_zh.md)
+
 # DualPendulumGym
 
 A cart-double-pendulum swing-up and balance environment with 3D OpenGL rendering, built on [Gymnasium](https://gymnasium.farama.org/). Train an RL agent to swing two hinged rods upright and keep them balanced using only horizontal cart forces.
